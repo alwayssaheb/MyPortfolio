@@ -1,0 +1,30 @@
+*{
+   
+}
+header {
+    display:flex;
+    justify-content: space-between;
+    height : 60px;
+    align-items: center;
+    background-color: #333;
+    padding: 20px;
+    color: white;
+}
+#items{
+    display:flex;
+    justify-content: space-between;
+    align-items: centre;
+}
+#items , li {
+    margin : 0 10px;
+    list-style: none;
+
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+.logo{
+    width: 30%
+}

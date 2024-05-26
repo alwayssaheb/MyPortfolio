@@ -1,0 +1,15 @@
+[
+    {
+      "title": "Project One",
+      "description": "This is a brief description of Project One.",
+      "technologies": ["React", "CSS", "JavaScript"],
+      "link": "https://link-to-project-one.com"
+    },
+    {
+      "title": "Project Two",
+      "description": "This is a brief description of Project Two.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "link": "https://link-to-project-two.com"
+    }
+]
+  

@@ -1,0 +1,42 @@
+/* src/styles/Contact.css */
+.contact {
+    padding: 50px 20px;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .contact h2 {
+    margin-bottom: 30px;
+    font-size: 2.5rem;
+  }
+  
+  .contact-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contact-link {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    color: #007bff;
+    text-decoration: none;
+    font-size: 1.2rem;
+  }
+  
+  .contact-link i {
+    margin-right: 10px;
+  }
+  
+  .contact-item {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    font-size: 1.2rem;
+  }
+  
+  .contact-item i {
+    margin-right: 10px;
+  }
+  
